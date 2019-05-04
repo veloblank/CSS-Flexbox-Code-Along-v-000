@@ -105,7 +105,7 @@ height. Similarly, footers usually contain static links and information, so we w
 set the height property in the `header` and `footer` CSS blocks to `80px`.
 
 Refresh the page and you'll see the effect: The `<main>` section will display as
-turqoise and tke up the majority of the page. If you shrink the height of your browser
+turqoise and take up the majority of the page. If you shrink the height of your browser
 window, the height of `<main>` will change significantly. Our `<header>` and
 `<footer>` sections will still adjust in height a little, but we'll take a look
 at preventing that later on. Previously, to create this sort of layout, we would
